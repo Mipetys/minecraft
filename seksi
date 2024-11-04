@@ -1,0 +1,5 @@
+cd https://github.com/Mipetys/minecraft/new/main
+git rm -r *
+git commit -m "Poista kaikki tiedostot"
+git push origin main  # tai oikea branchin nimi
+
